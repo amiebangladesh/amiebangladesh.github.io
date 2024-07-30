@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Bnagladesh Government Atrocities
+title: Photo evidences
 no_menu_item: true # required only for this example website because of menu construction
 support: [jquery, gallery]
 ---
